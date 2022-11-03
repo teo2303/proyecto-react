@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "marca": "Reloj Tommy Hilfiger",
+        "modelo": "1782558",
+        "material": "Acero inoxidable",
+        "genero": "Mujer",
+        "movimiento": "Cuarzo",
+        "precio": "76995",
+        "stock": "5",
+        "img":"reloj-mujer-tommy-1782558.png"
+    },
+    {
+        "id": "2",
+        "marca": "Reloj Tommy Hilfiger",
+        "modelo": "1782497",
+        "material": "Acero inoxidable",
+        "genero": "Mujer",
+        "movimiento": "Cuarzo",
+        "precio": "67895",
+        "stock": "5",
+        "img":"reloj-mujer-tommy-1782497.png"
+    },
+    {
+        "id": "3",
+        "marca": "Reloj Festina Boyfriend",
+        "modelo": "F16790/A",
+        "material": "Acero inoxidable",
+        "genero": "Mujer",
+        "movimiento": "Cuarzo",
+        "precio": "30795",
+        "stock": "5",
+        "img":"reloj-mujer-festina-F16790-A.png"
+    },
+    {
+        "id": "4",
+        "marca": "Reloj Festina Boyfriend",
+        "modelo": "F16790/B",
+        "material": "Acero inoxidable",
+        "genero": "Mujer",
+        "movimiento": "Cuarzo",
+        "precio": "30795",
+        "stock": "5",
+        "img":"reloj-mujer-festina-F16790-B.png"
+    },
+    {
+        "id": "5",
+        "marca": "Reloj Citizen EcoDrive",
+        "modelo": "EM050375X",
+        "material": "Acero inoxidable",
+        "genero": "Mujer",
+        "movimiento": "Cuarzo",
+        "precio": "103395",
+        "stock": "5",
+        "img":"reloj-mujer-citizen-EM050375X.png"
+    },
+    {
+        "id": "6",
+        "marca": "Reloj Citizen EcoDrive",
+        "modelo": "EM053382Y",
+        "material": "Acero inoxidable",
+        "genero": "Mujer",
+        "movimiento": "Cuarzo",
+        "precio": "131095",
+        "stock": "5",
+        "img":"reloj-mujer-citizen-EM053382Y.png"
+    },
+    {
+        "id": "7",
+        "marca": "Reloj Tommy Hilfiger",
+        "modelo": "1792007",
+        "material": "Acero inoxidable",
+        "genero": "Hombre",
+        "movimiento": "Cuarzo",
+        "precio": "65995",
+        "stock": "5",
+        "img":"reloj-hombre-tommy-1792007.png"
+    },
+    {
+        "id": "8",
+        "marca": "Reloj Tommy Hilfiger",
+        "modelo": "1792020",
+        "material": "Acero inoxidable",
+        "genero": "Hombre",
+        "movimiento": "Cuarzo",
+        "precio": "84995",
+        "stock": "5",
+        "img":"reloj-hombre-tommy-1792020.png"
+    },
+    {
+        "id": "9",
+        "marca": "Reloj Fossil",
+        "modelo": "FS5119",
+        "material": "Acero inoxidable",
+        "genero": "Hombre",
+        "movimiento": "Cuarzo",
+        "precio": "59595",
+        "stock": "5",
+        "img":"reloj-hombre-fossil-FS5119.png"
+    },
+    {
+        "id": "10",
+        "marca": "Reloj Fossil",
+        "modelo": "FS5095",
+        "material": "Cuero",
+        "genero": "Hombre",
+        "movimiento": "Cuarzo",
+        "precio": "70495",
+        "stock": "5",
+        "img":"reloj-hombre-fossil-FS5095.png"
+    },
+    {
+        "id": "11",
+        "marca": "Reloj Tissot PRS 516 Automatic",
+        "modelo": "1004271605100",
+        "material": "Cuero",
+        "genero": "Hombre",
+        "movimiento": "Cuarzo",
+        "precio": "652995",
+        "stock": "5",
+        "img":"reloj-hombre-tissot-1004271605100.png"
+    },
+    {
+        "id": "12",
+        "marca": "Reloj Tissot Pr 100",
+        "modelo": "1014101105100",
+        "material": "Acero inoxidable",
+        "genero": "Hombre",
+        "movimiento": "Cuarzo",
+        "precio": "120595",
+        "stock": "5",
+        "img":"reloj-hombre-tissot-1014101105100.png"
+    }
+]
